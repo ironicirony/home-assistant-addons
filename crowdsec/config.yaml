@@ -61,6 +61,7 @@ schema:
   disable_online_api: bool
 map:
   - config:rw
+  - share
 panel_icon: mdi:console-network
 panel_title: Crowdsec Terminal
 journald: true
